@@ -34,4 +34,4 @@ yarn.lock
 /playwright/.cache/
 
 # Env variables
-.env
+config.bat
